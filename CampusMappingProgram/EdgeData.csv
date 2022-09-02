@@ -1,0 +1,229 @@
+﻿Building 1:,Building 2:,Distance (Miles):
+Phillips,Observatory Dr/Willow Dr,0.16
+Dejope,Observatory Dr/Willow Dr,0.09
+Phillips,Elm Dr,0.15
+Dejope,Elm Dr,0.05
+Bradley,Elm Dr,0.06
+Sullivan,Elm Dr,0.02
+Cole,Elm Dr,0.04
+Leopold,Elm Dr,0.09
+Kronshage,Elm Dr,0.09
+Four Lakes,Observatory Dr/Willow Dr,0.09
+Four Lakes,Elm Dr,0.05
+Observatory Dr/Willow Dr,Elm Dr/Observatory Dr,0.13
+Kronshage,Babcock Dr/Tripp Cr,0.1
+Leopold,Babcock Dr/Tripp Cr,0.06
+Humphrey,Babcock Dr/Tripp Cr,0.05
+Adams,Babcock Dr/Tripp Cr,0.04
+Carson,Babcock Dr/Tripp Cr,0.07
+Slichter,Babcock Dr/Tripp Cr,0.03
+Slichter,Babcock Dr/Observatory Dr,0.05
+Babcock Dr/Tripp Cr,Babcock Dr/Observatory Dr,0.07
+Tripp,Babcock Dr/Tripp Cr,0.08
+Elm Dr/Observatory Dr,Babcock Dr/Observatory Dr,0.16
+Babcock Dr/Observatory Dr,Charter St/Observatory Dr,0.36
+Liz Waters,Charter St/Observatory Dr,0.07
+Liz's Market,Charter St/Observatory Dr,0.07
+Charter St/Linden Dr,Charter St/Observatory Dr,0.07
+Charter St/Linden Dr,Van Hise,0.03
+Charter St/Linden Dr,Ingraham,0.04
+Ingraham,Charter St/Observatory Dr,0.06
+Charter St/Linden Dr,Sterling,0.05
+Charter St/Linden Dr,Chamberlin,0.09
+Charter St/Linden Dr,Charter St/University Ave,0.12
+Chamberlin,Charter St/University Ave,0.05
+Ingraham,Charter St/University Ave,0.1
+Babcock Dr/Observatory Dr,Babcock Dr/Linden Dr,0.09
+Charter St/Linden Dr,Babcock Dr/Linden Dr,0.33
+University Ave/Randall Ave,Babcock Dr/Linden Dr,0.27
+University Ave/Randall Ave,Charter St/University Ave,0.15
+University Ave/Randall Ave,Engineering Dr/Randall Ave,0.08
+Union South,Engineering Dr/Randall Ave,0.02
+Engineering Hall,Engineering Dr/Randall Ave,0.07
+University Ave/Randall Ave,University Ave/Johnson St,0.04
+Johnson St/Orchard St,University Ave/Johnson St,0.09
+Johnson St/Orchard St,Computer Sciences,0.06
+Johnson St/Orchard St,Charter St/Johnson St,0.08
+Charter St/University Ave,Charter St/Johnson St,0.09
+Charter St/Dayton St,Charter St/Johnson St,0.08
+Dayton St/Orchard St,Charter St/Dayton St,0.08
+Dayton St/Randall Ave,Dayton St/Orchard St,0.08
+Dayton St/Randall Ave,Engineering Dr/Randall Ave,0.08
+Dayton St/Orchard St,Union South,0.03
+Dayton St/Orchard St,Computer Sciences,0.04
+Charter St/Johnson St,Chemistry Building,0.03
+Charter St/University Ave,Chemistry Building,0.07
+Bascom Hall,Charter St/Observatory Dr,0.14
+Observatory Dr/Park St,Charter St/Observatory Dr,0.29
+Observatory Dr/Park St,Langdon St/Park St,0.02
+Observatory Dr/Park St,College Library,0.05
+Science Hall,Langdon St/Park St,0.03
+Memorial Union,Langdon St/Park St,0.05
+Wisconsin Historical Society,Langdon St/Park St,0.08
+Memorial Library,Langdon St/Park St,0.14
+Langdon St/Lake St,Langdon St/Park St,0.16
+Langdon St/Lake St,Memorial Library,0.09
+Langdon St/Lake St,Wisconsin Historical Society,0.15
+Langdon St/Lake St,Memorial Union,0.14
+Langdon St/Lake St,State Street,0.06
+Langdon St/Lake St,Lake St/University Ave,0.18
+Park St/University Ave,Lake St/University Ave,0.16
+Bascom Hill/Park St,Humanities,0.04
+Park St/University Ave,Humanities,0.07
+Park St/University Ave,Rheta's,0.06
+Park St/University Ave,Chadbourne,0.06
+Langdon St/Park St,Bascom Hill/Park St,0.06
+Music Hall,Bascom Hill/Park St,0.05
+Law Building,Bascom Hill/Park St,0.09
+Bascom Hall,Bascom Hill/Park St,0.18
+Park St/University Ave,Bascom Hill/Park St,0.12
+Birge Hall,Bascom Hill/Park St,0.19
+Charter St/University Ave,Brooks St/University Ave,0.19
+Park St/University Ave,Brooks St/University Ave,0.09
+Johnson St/Park St,Park St/University Ave,0.08
+Johnson St/Park St,Vilas Hall,0.04
+Johnson St/Park St,Grainger Hall,0.06
+Vilas Hall,Park St/University Ave,0.06
+Johnson St/Park St,Sellery,0.04
+Lake St/University Ave,Johnson St/Lake St,0.08
+Witte,Johnson St/Lake St,0.02
+Brooks St/Johnson St,Brooks St/University Ave,0.08
+Brooks St/Johnson St,Grainger Hall,0.07
+Brooks St/Johnson St,Johnson St/Park St,0.09
+Dayton St/Randall Ave,Monroe St/Randall Ave,0.07
+The Shell,Monroe St/Randall Ave,0.14
+Dayton St/Park St,Johnson St/Park St,0.08
+Dayton St/Park St,Sellery,0.05
+Dayton St/Park St,Ogg,0.02
+Dayton St/Park St,Dayton St/East Campus Mall,0.08
+The Nick,Dayton St/East Campus Mall,0.03
+Gordon,Dayton St/East Campus Mall,0.05
+Johnson St/Park St,East Campus Mall/Johnson St,0.08
+Johnson St/Lake St,East Campus Mall/Johnson St,0.08
+Gordon,East Campus Mall/Johnson St,0.06
+Dayton St/East Campus Mall,East Campus Mall/Johnson St,0.08
+Dayton St/East Campus Mall,Dayton St/Lake St,0.08
+The Nick,Dayton St/Lake St,0.06
+Johnson St/Lake St,Dayton St/Lake St,0.08
+Witte,Dayton St/Lake St,0.07
+Dayton St/Park St,Park St/Spring St,0.11
+Smith,Park St/Spring St,0.06
+Charter St/Dayton St,Dayton St/Mills St,0.08
+Dayton St/Park St,Dayton St/Mills St,0.17
+Charter St/Johnson St,Johnson St/Mills St,0.09
+Johnson St/Mills St,Dayton St/Mills St,0.08
+Brooks St/Johnson St,Johnson St/Mills St,0.08
+Observatory Dr/Willow Dr,Phillips,0.16
+Observatory Dr/Willow Dr,Dejope,0.09
+Elm Dr,Phillips,0.15
+Elm Dr,Dejope,0.05
+Elm Dr,Bradley,0.06
+Elm Dr,Sullivan,0.02
+Elm Dr,Cole,0.04
+Elm Dr,Leopold,0.09
+Elm Dr,Kronshage,0.09
+Observatory Dr/Willow Dr,Four Lakes,0.09
+Elm Dr,Four Lakes,0.05
+Elm Dr/Observatory Dr,Observatory Dr/Willow Dr,0.13
+Babcock Dr/Tripp Cr,Kronshage,0.1
+Babcock Dr/Tripp Cr,Leopold,0.06
+Babcock Dr/Tripp Cr,Humphrey,0.05
+Babcock Dr/Tripp Cr,Adams,0.04
+Babcock Dr/Tripp Cr,Carson,0.07
+Babcock Dr/Tripp Cr,Slichter,0.03
+Babcock Dr/Observatory Dr,Slichter,0.05
+Babcock Dr/Observatory Dr,Babcock Dr/Tripp Cr,0.07
+Babcock Dr/Tripp Cr,Tripp,0.08
+Babcock Dr/Observatory Dr,Elm Dr/Observatory Dr,0.16
+Charter St/Observatory Dr,Babcock Dr/Observatory Dr,0.36
+Charter St/Observatory Dr,Liz Waters,0.07
+Charter St/Observatory Dr,Liz's Market,0.07
+Charter St/Observatory Dr,Charter St/Linden Dr,0.07
+Van Hise,Charter St/Linden Dr,0.03
+Ingraham,Charter St/Linden Dr,0.04
+Charter St/Observatory Dr,Ingraham,0.06
+Sterling,Charter St/Linden Dr,0.05
+Chamberlin,Charter St/Linden Dr,0.09
+Charter St/University Ave,Charter St/Linden Dr,0.12
+Charter St/University Ave,Chamberlin,0.05
+Charter St/University Ave,Ingraham,0.1
+Babcock Dr/Linden Dr,Babcock Dr/Observatory Dr,0.09
+Babcock Dr/Linden Dr,Charter St/Linden Dr,0.33
+Babcock Dr/Linden Dr,University Ave/Randall Ave,0.27
+Charter St/University Ave,University Ave/Randall Ave,0.15
+Engineering Dr/Randall Ave,University Ave/Randall Ave,0.08
+Engineering Dr/Randall Ave,Union South,0.02
+Engineering Dr/Randall Ave,Engineering Hall,0.07
+University Ave/Johnson St,University Ave/Randall Ave,0.04
+University Ave/Johnson St,Johnson St/Orchard St,0.09
+Computer Sciences,Johnson St/Orchard St,0.06
+Charter St/Johnson St,Johnson St/Orchard St,0.08
+Charter St/Johnson St,Charter St/University Ave,0.09
+Charter St/Johnson St,Charter St/Dayton St,0.08
+Charter St/Dayton St,Dayton St/Orchard St,0.08
+Dayton St/Orchard St,Dayton St/Randall Ave,0.08
+Engineering Dr/Randall Ave,Dayton St/Randall Ave,0.08
+Union South,Dayton St/Orchard St,0.03
+Computer Sciences,Dayton St/Orchard St,0.04
+Chemistry Building,Charter St/Johnson St,0.03
+Chemistry Building,Charter St/University Ave,0.07
+Charter St/Observatory Dr,Bascom Hall,0.14
+Charter St/Observatory Dr,Observatory Dr/Park St,0.29
+Langdon St/Park St,Observatory Dr/Park St,0.02
+College Library,Observatory Dr/Park St,0.05
+Langdon St/Park St,Science Hall,0.03
+Langdon St/Park St,Memorial Union,0.05
+Langdon St/Park St,Wisconsin Historical Society,0.08
+Langdon St/Park St,Memorial Library,0.14
+Langdon St/Park St,Langdon St/Lake St,0.16
+Memorial Library,Langdon St/Lake St,0.09
+Wisconsin Historical Society,Langdon St/Lake St,0.15
+Memorial Union,Langdon St/Lake St,0.14
+State Street,Langdon St/Lake St,0.06
+Lake St/University Ave,Langdon St/Lake St,0.18
+Lake St/University Ave,Park St/University Ave,0.16
+Humanities,Bascom Hill/Park St,0.04
+Humanities,Park St/University Ave,0.07
+Rheta's,Park St/University Ave,0.06
+Chadbourne,Park St/University Ave,0.06
+Bascom Hill/Park St,Langdon St/Park St,0.06
+Bascom Hill/Park St,Music Hall,0.05
+Bascom Hill/Park St,Law Building,0.09
+Bascom Hill/Park St,Bascom Hall,0.18
+Bascom Hill/Park St,Park St/University Ave,0.12
+Bascom Hill/Park St,Birge Hall,0.19
+Brooks St/University Ave,Charter St/University Ave,0.19
+Brooks St/University Ave,Park St/University Ave,0.09
+Park St/University Ave,Johnson St/Park St,0.08
+Vilas Hall,Johnson St/Park St,0.04
+Grainger Hall,Johnson St/Park St,0.06
+Park St/University Ave,Vilas Hall,0.06
+Sellery,Johnson St/Park St,0.04
+Johnson St/Lake St,Lake St/University Ave,0.08
+Johnson St/Lake St,Witte,0.02
+Brooks St/University Ave,Brooks St/Johnson St,0.08
+Grainger Hall,Brooks St/Johnson St,0.07
+Johnson St/Park St,Brooks St/Johnson St,0.09
+Monroe St/Randall Ave,Dayton St/Randall Ave,0.07
+Monroe St/Randall Ave,The Shell,0.14
+Johnson St/Park St,Dayton St/Park St,0.08
+Sellery,Dayton St/Park St,0.05
+Ogg,Dayton St/Park St,0.02
+Dayton St/East Campus Mall,Dayton St/Park St,0.08
+Dayton St/East Campus Mall,The Nick,0.03
+Dayton St/East Campus Mall,Gordon,0.05
+East Campus Mall/Johnson St,Johnson St/Park St,0.08
+East Campus Mall/Johnson St,Johnson St/Lake St,0.08
+East Campus Mall/Johnson St,Gordon,0.06
+East Campus Mall/Johnson St,Dayton St/East Campus Mall,0.08
+Dayton St/Lake St,Dayton St/East Campus Mall,0.08
+Dayton St/Lake St,The Nick,0.06
+Dayton St/Lake St,Johnson St/Lake St,0.08
+Dayton St/Lake St,Witte,0.07
+Park St/Spring St,Dayton St/Park St,0.11
+Park St/Spring St,Smith,0.06
+Dayton St/Mills St,Charter St/Dayton St,0.08
+Dayton St/Mills St,Dayton St/Park St,0.17
+Johnson St/Mills St,Charter St/Johnson St,0.09
+Dayton St/Mills St,Johnson St/Mills St,0.08
+Johnson St/Mills St,Brooks St/Johnson St,0.08
