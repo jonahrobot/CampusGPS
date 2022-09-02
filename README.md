@@ -3,7 +3,7 @@ Finds the shortest path between two UW-Madison Campus locations.
 
 This is done with a Dijkstra’s pathfinding algorithm, a weighted graph made using collected navigation data and a Hash Table.
 
-Final project at the University of Wisconsin - Madison, received an A.
+This was our final project at the University of Wisconsin - Madison and we received an A.
 
 Team:
 Jonah Ryan - Backend
